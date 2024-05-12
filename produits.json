@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ordinateur portable",
+        "price": 999,
+        "category": "Électronique",
+        "stock": 15
+    },
+    {
+        "name": "PC",
+        "price": 999,
+        "category": "Informatique",
+        "stock": 8
+    },
+    {
+        "name": "Ordinateur portable",
+        "price": 999,
+        "category": "Électronique",
+        "stock": 10
+    }
+]
